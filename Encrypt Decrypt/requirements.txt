@@ -1,0 +1,5 @@
+"Run the following commands in the Command Prompt"
+
+pip install pybase64
+
+pip install tk
